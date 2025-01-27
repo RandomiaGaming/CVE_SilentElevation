@@ -1,7 +1,0 @@
-G:\Coding\C#\CVE_SilentElevation\bin\Debug\CVE_SilentElevation.exe.config
-G:\Coding\C#\CVE_SilentElevation\bin\Debug\CVE_SilentElevation.exe
-G:\Coding\C#\CVE_SilentElevation\bin\Debug\CVE_SilentElevation.pdb
-G:\Coding\C#\CVE_SilentElevation\obj\Debug\CVE_SilentElevation.csproj.AssemblyReference.cache
-G:\Coding\C#\CVE_SilentElevation\obj\Debug\CVE_SilentElevation.csproj.CoreCompileInputs.cache
-G:\Coding\C#\CVE_SilentElevation\obj\Debug\CVE_SilentElevation.exe
-G:\Coding\C#\CVE_SilentElevation\obj\Debug\CVE_SilentElevation.pdb
